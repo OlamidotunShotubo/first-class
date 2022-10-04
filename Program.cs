@@ -46,8 +46,8 @@
 // //increament and decreament
 // Console.WriteLine($"Post Increament: {(integer++) + 1}");
 // Console.WriteLine($"Pre Increament: {(++integer) + 1}");
-// Console.WriteLine($"Post Increament: {(integer--) + 1}");
-// Console.WriteLine($"Pre Increament: {(--integer) + 1}");
+// Console.WriteLine($"Post decreament: {(integer--) + 1}");
+// Console.WriteLine($"Pre decreament: {(--integer) + 1}");
 
 // //equality operators
 // //== != > >= < <= 
